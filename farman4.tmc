@@ -4,7 +4,7 @@
         <[vec32array][ContactSpheres][ (2.1521 2.1453 -1.8639 0.04) (2.1521 -2.1456 -1.8639 0.04) (-3.6642 0 -1.0119 0.04) ]>
         <[string8][DisplayName][Farman IV]>
         <[string8][DescriptionTextEN][undefined (from Wikipedia)
-Converted from FlightGear by krzysk(at)wp.pl . 3D model by Emmanuel Baranger (3D/FDM), LesterBoffo (FDM).]>
+Converted from FlightGear by Krzysztof Kaniewski. Original 3D model created by Emmanuel Baranger (3D/FDM), LesterBoffo (FDM).]>
 		<[float64][WingSpan][16.4]>
 		<[float64][Mass][290.3]>
 		<[float64][MaximumSpeed][24.7]>
